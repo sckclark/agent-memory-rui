@@ -16,3 +16,7 @@ Deliverables live in `~/deliverables/蕊元书院_营销评估/`, and sources in
 | 《小红书账号诊断》 | xhs.tpl.html | v1, 2 pp | duplicates report §十三; offered to shrink §十三 to a pointer (no answer yet) |
 | 小瑞狮形象草图 | merch/lion.py → lion.svg/png | v1 (11-23): 标准形象抱绣球 + 礼/书/冬至 variants, palette | deliverables/小瑞狮_形象草图_v1.png; sent to 郑宗梅 |
 | 小瑞狮形象草图 v2 | merch/lion2.py → lion2.svg/png (ref_lobby_lion.png crop) | v2 (11-23): closer to the lobby 瑞狮 (gold on 朱红, 海棠 frame, 绣球, pedestal) | deliverables/小瑞狮_形象草图_v2.png; sent to 郑宗梅 |
+- 客房清扫SOP_v1.pdf (11-23, for 郑宗梅; source `work/ruiyuan/hk.tpl.html`): 9-step housekeeping SOP "按五星级标准" (internal only; 书院 not star-rated). Draft; 房务负责人 to check against real 房型/布草/用品.
+- 客房清扫九步法_培训视频_v1.mp4 (11-23): ~5 min vertical, 14 slides + 火山 TTS narration. Source `work/ruiyuan/video/make.py` (slides s*.png, narration s*.txt, ffmpeg concat).
+- 客房清扫九步法_小瑞狮动画版_v1.mp4 (11-23): ~4.5 min vertical cartoon (chibi housekeeper in 朱红 uniform + 小瑞狮 v1 narrator, sparkles, timed subtitles, fades). Same narration audio as v1 video. Source `work/ruiyuan/video2/` (art.py drawings, scenes.py layers → Chrome PNGs, render.py ffmpeg overlays). Sent to 郑董 for OK before posting to group.
+- 客房清扫配套表格_v1.pdf (11-23, source `work/ruiyuan/hkforms.tpl.html`): 3 pages. Checklist (22 items), monthly 100-point staff scoring, training sign-in sheet. Posted to group 蕊元书院 at 郑董's request.

@@ -13,3 +13,8 @@ metadata:
 - 2026-11-23: 小瑞狮: 郑宗梅 prefers v1 over v2. Waiting for others' input before revising.
 - 2026-11-23 19:37: owner restarting the system (about 3 min). Voice works via the voice field. Pending: TTS voice change (郑董 wants a natural, 豆包-like Mandarin voice). 小瑞狮 v1 preferred. 文创方案 v2 shared in the group.
 - 2026-11-23 19:45: new TTS voice (火山 亲切女声) approved by 郑董. Voice-reply issue closed.
+- 11-23 22:05: 郑董 asked (voice) for a housekeeping SOP + video. Sent SOP PDF + training video (text+voice). Waiting for corrections; offered a real-footage version once final.
+- 11-23 22:05: new users 刘丽杰 (人事主管+副总) and 王鸿 (法务合规财务信息副总) per owner. Owner: 盛腾 副总; same sharing as 朱安琪. 11-23 22:10 郑董 asked for a livelier cartoon version of the SOP video; building (小瑞狮 v1 narrator + cartoon housekeeper).
+- 11-23 22:13: at 郑董's request posted SOP PDF + v1 video to group 蕊元书院 (noted 内部培训, 按五星级标准). 22:30 sent 郑董 the 小瑞狮 animated version; waiting for her OK, then post it to the group.
+- 11-23 22:22: per 郑董, posted the animated video to group 蕊元书院 and asked 段丽君 (书院 staff, likely 房务; 郑董 refers to her as 她) to carry it out: check SOP vs reality, train staff, supervisors inspect. Offered checklists/考核表. Can't truly @ in group.
+- 11-23 22:40: 郑董 said 需要 in the group. Made and posted the 3 forms (检查表, 考核评分表, 签到表) to group 蕊元书院 (text + voice). 段丽君 to review them along with the SOP.
