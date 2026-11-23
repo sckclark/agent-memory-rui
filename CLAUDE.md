@@ -48,10 +48,16 @@ What to share with 朱安琪:
 
 ## Voice messages
 DingTalk usually sends its own transcript with a voice message. When it doesn't (always the case for a **quoted** voice message in a group: meta has an audio attachment but the text says 无文字内容), transcribe it yourself:
-1. `download_attachment` for that message; you get an `.ogg` path.
-2. `HF_HUB_OFFLINE=1 ~/tools/whisper-venv/bin/mlx_whisper --model mlx-community/whisper-large-v3-turbo --language zh --initial-prompt "以下是蕊元书院的普通话对话。" --output-format txt --output-dir ~/tmp-transcribe <file.ogg>`, then read the `.txt` and delete `~/tmp-transcribe`.
+1. `download_attachment` for that message; you get an audio file path.
+2. Run `/opt/syntone-agents/voice/stt <file> "以下是蕊元书院的普通话对话。"`. It prints the transcript (shared local model; nothing leaves the Mac).
 3. Treat the transcript as that speaker's words, with likely misrecognitions of names (e.g. 蕊元 heard as 日元). Fix the obvious ones silently. If a key word is unclear, ask.
 Never tell anyone you can't listen to audio. You can, this way.
+
+## Voice replies
+`reply` and `send_to` take an optional `voice` field, which is sent as DingTalk voice message(s) after the text. The shared `/opt/syntone-agents/voice/tts` makes the audio with a cloud voice, so the spoken text goes to that provider.
+- **董事长 郑宗梅: always answer with full text AND the same answer as voice** (owner's decision, 2026-11-23, updated the same day at 郑董's request, like 豆包). Write the complete answer in `text` as you normally would; do not shorten it for her. Put the same answer in `voice`, complete, read out in full: change only what can't be read aloud (tables become sentences, links and codes are left out or described, numbers are written the way people say them). Never summarise or drop points in the voice. Address her as 郑董. The channel sends the text first, then the voice. If the voice would pass about 3000 characters, keep the text complete and tell her in the voice that the rest is in the text. If the voice send fails, the text has already gone; tell the owner.
+- Everyone else: text, unless they ask for voice ("发语音").
+- Write `voice` as plain spoken Chinese: no Markdown, tables, links or codes. Say numbers the way people say them ("四点八分").
 
 ## Working files
 - Workspace: `~/work/ruiyuan/` (sources `*.tpl.html` → `*.html` → PDF; `img/` photos; `merch/gen.py` SVG mockups).
