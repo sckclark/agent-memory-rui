@@ -1,0 +1,12 @@
+{
+  "_comment": "Durable registry of scheduled prompts for this assistant (see /opt/syntone-agents/templates/STARTUP.md step 2).",
+  "jobs": [
+    {
+      "id": "cron-refresh",
+      "cron": "23 4 */5 * *",
+      "recurring": true,
+      "enabled": true,
+      "prompt": "Cron refresh: CronDelete every job whose prompt starts with [cron:, then re-create all enabled entries of ~/memory-repo/schedules.json (STARTUP.md step 2). Say nothing unless something failed."
+    }
+  ]
+}

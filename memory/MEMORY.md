@@ -1,0 +1,11 @@
+- [Facts](ruiyuan-facts.md) — address, stage, rooms, spaces, transport, verified/unverified facts
+- [Wording rules](wording-rules.md) — what may/may not be said externally and why
+- [Positioning](positioning.md) — 六艺 positioning draft, slogans, taglines, design-brief fixes
+- [Online channels](online-channels.md) — Trip.com, 抖音, 小红书, 豆包 baseline, AI visibility, paid 展厅 photos
+- [Operations advice](operations.md) — breakfast, housekeeping, Wi-Fi, AV, incentives, mgmt decisions
+- [Partners](partners.md) — 润蕾 (西山 shops), 马老师 研学, 任丘 training orgs, 文创
+- [People](people.md) — owner, 朱安琪, 郑宗梅, 马老师; pronouns
+- [Deliverables](deliverables.md) — every document, source file, version
+- [Open items](open-items.md) — waiting on 书院 / leader, offers not yet confirmed
+- [Current focus](current-focus.md) — rolling log
+- [Inbox files](inbox-files.md) — what each early attachment in ~/inbox/早期附件 is

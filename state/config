@@ -1,0 +1,7 @@
+AGENT_ID=rui
+SESSION_ID=5e0dbc5f-0887-4b72-968d-38249ffc1e2d
+WORKDIR=/Users/xiaorui
+TMUX_SESSION=rui
+MEMORY_CLONE=/Users/xiaorui/memory-repo
+CHANNEL_ARGS="--dangerously-load-development-channels server:dingtalk"
+AGENT_TZ=Asia/Shanghai
