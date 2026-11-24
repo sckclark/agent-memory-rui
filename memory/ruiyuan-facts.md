@@ -13,12 +13,12 @@ metadata:
   - 朱红 lobby wall with 瑞狮 ("狮卧丹霞");
   - 国学展厅: **1F = 儒家六艺** (礼 礼仪之邦, 乐 弦歌不断, 射, 书 笔耕不辍, 朱熹 calligraphy; 御 and 数 unconfirmed); **2F = 道家 and 佛家 halls** (郑董, 11-24; contents not yet seen, photos requested). So 儒释道 is a correct description of the whole 展厅;
   - 古琴台, immersive video room, 书法教室, 茶室书吧, gym;
-  - 宴会厅 with a 藻井-style ceiling: 350㎡ (about 20×20 m), 8 m ceiling, on 1F;
+  - 宴会厅 with a 藻井-style ceiling: 350㎡ (about 20×20 m), 8 m ceiling, on 1F; banquet up to 20 tables; meetings 100–150 seats, about 100 comfortable (郑董, 11-24; held one banquet of 20 tables × 10 = 200 people; no 研讨会 held yet; external wording: 宴会能摆二十桌、坐两百人，开会也能坐一百多人);
   - modern minimal rooms;
   - B区水吧, 大堂吧, 酒廊, outdoor space.
 - Few books on site. The 书院 core is 讲学 (teaching), not book collecting.
 - 国学展厅 is a paid attraction. Who pays and the price are still to be confirmed.
-- Transport: 任丘西站 has high-speed trains direct to Beijing. Trip.com's 4.2 vs 9.98 km figures may mix up 任丘站 and 任丘西站.
+- Transport: 任丘西站 has high-speed trains direct to Beijing: 北京西→任丘西 fastest about 1 hour (G3943 1h00, G8833 1h01, Trip.com list as of 2026-10; confirm on 12306). 雄商高铁 opened 2026-09-28; 任丘西 is the 2nd stop after 雄安站 (exact minutes not found). Drive time 雄安→书院 about 50 min (郑佳蕙, 11-24). External wording: 雄安开车五十分钟左右；北京西高铁到任丘西一小时左右. Trip.com's 4.2 vs 9.98 km figures may mix up 任丘站 and 任丘西站.
 - 2026 节气: 小雪 11-22, 大雪 12-07, **冬至 12-22 (Tuesday)**, not 12-21.
 - The 11-16 盛腾 strategy meeting was held at 书院 (the meeting content is 盛腾-internal).
 - English name: undecided. Candidates are Ruiyuan Academy Hotel (platforms) and RUIYUAN SHUYUAN (logo pinyin); the leader decides.

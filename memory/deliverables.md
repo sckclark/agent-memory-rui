@@ -22,3 +22,4 @@ Deliverables live in `~/deliverables/蕊元书院_营销评估/`, and sources in
 - 客房清扫配套表格_v1.pdf (11-23, source `work/ruiyuan/hkforms.tpl.html`): 3 pages. Checklist (22 items), monthly 100-point staff scoring, training sign-in sheet. Posted to group 蕊元书院 at 郑董's request.
 - 总值班检查表_模板_v2.xlsx (11-24; source `work/ruiyuan/duty/make.py`, run with ~/work/.venv/bin/python, which has openpyxl and pillow). Adds 沽清登记, a complaint-handling outcome, specifics/follow-up columns, a 节能 check, handover owners and deadlines, and signatures. Posted to 总值班沟通群 at 郑董's request.
 - 2026-11-24 蕊元书院_电子查房表_v1.xlsx（源 ~/work/ruiyuan/eform/make.py，venv python）：使用说明、查房记录（1000 行，22 项 ✓/✗ 下拉，自动算用时和不合格数）、统计（总体、分项、清扫员、检查人，可按月）、名单、检查标准。给段立军（房务）。未在钉钉在线表格里测试。
+- 2026-11-24 蕊元书院_小瑞狮宣传片_会议论坛团建_v1.mp4（54 秒竖屏，8 段，源 ~/work/ruiyuan/video3/make.py + render.py，复用 video2/art.py 和 merch/lion.py）。给郑董（她要做来吸引雄安/任丘企业办论坛、研讨、团建）。无音乐、无电话。

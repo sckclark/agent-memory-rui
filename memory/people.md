@@ -15,3 +15,4 @@ metadata:
 - **王鸿** (owner, 11-23): 副总经理 for 法务, 合规, 财务, 信息. Address as 王总. Pronouns unknown (they/them). 盛腾 副总 (owner 11-23). Sharing: same as 朱安琪/赵欣.
 - **段丽君** (11-23): 书院 staff, assigned by 郑董 to implement the 客房清扫 SOP. Probably 房务 lead; not yet on the allowlist (hasn't messaged).
 - 段立军（allowlist 名，此前郑董语音里记成“段丽君”，应为同一人）：书院房务/客房负责人，可能被称“段总”（展馆日报“段总接待”）。staff_id 644014812，1:1 chat cidRlIQ8ai4vdYGtxE1oJlY3v6wE0++lUxnY//w08Km1T8=。2026-11-24 起在 allowlist（role user）。郑董称“她”。
+- 郑佳蕙：allowlist user，staff_id 624903859，在蕊元书院群（2026-11-24 首次出现，指出任丘读音）。身份/岗位未知，代词未知（they/them）。
