@@ -11,3 +11,4 @@ metadata:
 - 外宣三不 (three don'ts) and an 11-row table of design-brief fixes: 唐宋/宋代园林 → 文人雅致生活; 枯山水 → 白砂置石; 步移景移 → 步移景异; 已时 → 巳时; no 药膳 health claims; no university names; planned items only once launched; English rewritten.
 - Earlier tagline options (11-18, superseded by 天地人和 unless the leader prefers): "住进一座书院。" (only once a reading corner exists), "一盏茶，一卷书，一夜安眠。", "以茶会友，以文雅集。" The 悉昙 model (feeling / facts / endorsement) was studied.
 - **After the leader approves:** update the positioning lines in the kit and report, and the 抖音 titles.
+- **11-24 note:** the 展厅 covers 儒释道 (1F 六艺, 2F 道家 and 佛家; 郑董). The 六艺 positioning still holds as the 主线, but don't describe the 展厅 as 六艺-only in external copy. Mention 儒释道 where the 展厅 as a whole is described.

@@ -21,3 +21,10 @@ metadata:
 - 11-24 08:44: service restarted (08:38 and 08:44). Cron 0a8aa426 present; sent the owner a hello.
 - 11-24 11:02: owner posted the 11-23 总值班检查表 (duty mgr 裴世林) in new group 蕊元书院总值班沟通群 (chat_id cidi5Dy/qfvbNZNZbo8TDFC4Q==). 0 rooms in house and 0 bookings; breakfast 2; private rooms 25 guests; 1 complaint (雪媚娘 and 东坡肉 sold out, 沽清 not communicated). Replied with a summary and 3 suggestions (沽清单, record the complaint outcome, specifics instead of ticks). Offered a better template.
 - 11-24 11:15: 郑董 said 需要 → made and posted the new 总值班检查表 template (xlsx) to 总值班沟通群 (text + voice).
+- 11-24 14:46: 郑董 asked me to find 抖音 videos about 书院 by a 汉漆/大漆 非遗传承人: making the 大漆 门头牌匾, plus 漆画. Web search found nothing (抖音 isn't indexed; the search page needs login). Asked her for share links, saved videos, or the account name. Offered to fold it into the 书院 intro, the documentary and 文创 (permission needed).
+
+- 2026-11-24 总值班沟通群：owner 说群里每天发的经营日报只需我看，不用回复。11-24 数据：上班 51 人；昨日晚餐 13 人；今日早餐 17 人；今日午餐 19 人。以后看到这类日报，不回复，只记录（备复盘用）。
+- 2026-11-24 国学展馆日报（总值班群，owner 转发，不回复）：散客 3 人（段总接待）；研学团队 0；体验/课程营收 0 元；讲解 0 次；无异常。
+- 2026-11-24 采购支出日报（总值班群，owner 转发，不回复；图存 ~/inbox/总值班群/）：菜品生鲜 3920.50 → 折后 3919（水果 403、菜 1415、水产 358、肉蛋 827、调料 718、米面油 188、其他 10；“折扣额”实为抹零）；宴会采购 7405（海鲜 3445、甜品 225、肉 3735）；合计 11325.50 → 11324；无采购问题。备注：当天有宴会；日常生鲜约 3900 元/天，对应员工餐 51 人 + 客餐（复盘时可算人均餐成本）。
+- 2026-11-24 owner 在总值班群说欢迎我表达意见。已在群里回：三份日报都看到了；建议：日报加在住房间数、入住率、营收；宴会记桌数和收入，算成本率；就餐人数分员工和客人；“折扣额”改叫“抹零”。以后看到日报不逐条回复，有异常或建议时才说。
+- 2026-11-24 段立军 1:1 要电子查房表（不打印、能统计、永久保存）。已发 v1 xlsx，建议上传钉钉文档在线填。待反馈：钉钉在线表格是否兼容（下拉、COUNTIFS）；1000 行容量用满时扩容。
