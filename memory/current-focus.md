@@ -18,3 +18,6 @@ metadata:
 - 11-23 22:13: at 郑董's request posted SOP PDF + v1 video to group 蕊元书院 (noted 内部培训, 按五星级标准). 22:30 sent 郑董 the 小瑞狮 animated version; waiting for her OK, then post it to the group.
 - 11-23 22:22: per 郑董, posted the animated video to group 蕊元书院 and asked 段丽君 (书院 staff, likely 房务; 郑董 refers to her as 她) to carry it out: check SOP vs reality, train staff, supervisors inspect. Offered checklists/考核表. Can't truly @ in group.
 - 11-23 22:40: 郑董 said 需要 in the group. Made and posted the 3 forms (检查表, 考核评分表, 签到表) to group 蕊元书院 (text + voice). 段丽君 to review them along with the SOP.
+- 11-24 08:44: service restarted (08:38 and 08:44). Cron 0a8aa426 present; sent the owner a hello.
+- 11-24 11:02: owner posted the 11-23 总值班检查表 (duty mgr 裴世林) in new group 蕊元书院总值班沟通群 (chat_id cidi5Dy/qfvbNZNZbo8TDFC4Q==). 0 rooms in house and 0 bookings; breakfast 2; private rooms 25 guests; 1 complaint (雪媚娘 and 东坡肉 sold out, 沽清 not communicated). Replied with a summary and 3 suggestions (沽清单, record the complaint outcome, specifics instead of ticks). Offered a better template.
+- 11-24 11:15: 郑董 said 需要 → made and posted the new 总值班检查表 template (xlsx) to 总值班沟通群 (text + voice).

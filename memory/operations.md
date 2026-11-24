@@ -24,3 +24,4 @@ metadata:
 - **Staff incentive policy** 《会员卡及餐饮销售奖励政策》 (餐饮部, 2026-12-15 to 2027-12-31): too complex; no room-night incentive; legal flags (withholding commission, breakage fund, 单用途预付卡 filing). Proposal "3 rules one page" is in report §十二. Source PDF: `~/inbox/incentive-policy.pdf`.
 - Marriott vs China incentive comparison given (11-18). Offered 《员工激励方案建议》 (not confirmed).
 - **Demand sources:** 盛腾 and its partners, closed-door corporate meetings, 研学, 婚宴/写真, scholar events, 京津 weekenders. For SOE/government guests (华北油田/石化), offer group and meeting rates, not 900 retail.
+- **Banquet LED as built (赵欣, 11-24):** 分辨率 3268×1806; 模块 19×21 = 399 pcs; 显示尺寸 6.08×3.36 m = 20.428 ㎡. Derived: module 320×160 mm with 172×86 px, so about P1.86. Ratio about 1.81:1 (close to 16:9). More than 1080p, so needs a 4K-capable sender/processor or split inputs. Matches the 11-19 advice (about 6×3.4 m, P1.8).

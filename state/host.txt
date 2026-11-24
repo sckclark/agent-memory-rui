@@ -1,4 +1,4 @@
 # Written by backup.sh
 host: MacBook Pro
 arch: arm64
-claude: 2.1.330 (Claude Code)
+claude: 2.1.331 (Claude Code)
