@@ -10,4 +10,3 @@
 - [Current focus](current-focus.md) — rolling log
 - [Inbox files](inbox-files.md) — what each early attachment in ~/inbox/早期附件 is
 - [TTS pronunciation](tts-pronunciation.md) — write 人丘 for 任丘 in voice/TTS text (rén, not rèn)
-- [郑董每周清单](people/郑宗梅-weekly.md) — PRIVATE; Monday-morning reminder list

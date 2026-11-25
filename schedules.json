@@ -7,21 +7,6 @@
       "recurring": true,
       "enabled": true,
       "prompt": "Cron refresh: CronDelete every job whose prompt starts with [cron:, then re-create all enabled entries of ~/memory-repo/schedules.json (STARTUP.md step 2). Say nothing unless something failed."
-    },
-    {
-      "id": "zheng-weekly",
-      "cron": "53 7 * * 1",
-      "recurring": true,
-      "enabled": true,
-      "prompt": "每周一早上提醒郑董安排本周工作：读 ~/.claude/projects/-Users-xiaorui/memory/people/郑宗梅-weekly.md（PRIVATE），用 send_to 发给郑宗梅（staff_id 095166185136380767）1:1：文字完整列出待跟进事项（重点标出到期日和本周该催办的人），voice 字段同样内容完整朗读（任丘写人丘）。结尾问她本周有什么新增或已完成，回复后更新清单。郑董本人 2026-11-25 要求设置。"
-    },
-    {
-      "id": "zheng-hotpot-1127",
-      "cron": "7 9 27 11 *",
-      "recurring": false,
-      "date": "2026-11-27",
-      "enabled": true,
-      "prompt": "提醒郑董：今天（周五）订下周一（11-30）和父母吃火锅的位子。用 send_to 发给郑宗梅（staff_id 095166185136380767），文字+语音（同样内容）。简短。发完在 people/郑宗梅-weekly.md 标注已提醒。"
     }
   ]
 }
