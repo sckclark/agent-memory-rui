@@ -35,3 +35,19 @@ metadata:
 - 菜单与出单（陈总 2026-11-26）：酒水单印在中式菜谱（中餐菜谱大类）；中式茶（二楼包厢，归中餐菜谱大类）：茗茶 138/158/208 为单泡价，含包厢约 2 小时（不另收包厢费），茶叶由二楼收银台出单、客人自泡；茶饮套餐 198/298/398 任选 2 泡配坚果糕点水果，茶点由二楼厨房出。一楼茶吧：「闲拾雅点」（茶吧饮品 10、西式小点心 6、西式小慕斯 5）+ 西式下午茶套餐 88/128/198（拍照打卡），水吧出单。鲜榨果汁→一楼凉菜间；散茶、咖啡、酒水→一楼/二楼前台。送餐菜单整类删除待重做。时价海鲜系统写 0，买单时手输。扬州炒饭 68/例；青豆虾滑羊肚菌 128。
 - 3 号院 = 临江仙。膳和名义西餐厅，实际中餐团购在此用餐。2 位洗碗工负责包厢、膳和及宴会。
 - 至少 6 层（6 楼有楼道）；整栋及各层公区面积未知（11-27 已在总值班群向谢工要）。
+
+## Floor plans (received 2026-11-27 from owner in 总值班群)
+- File: ~/inbox/蕊元书院/plan/平面图.pdf (6 pages: B1 后勤区, 1F–5F; designer 北京都市霍普, 2025-07; scale 1:150). No 6F plan.
+- 1F labels (approx): 大堂 400㎡, 大堂接待 115, 走廊 180, 过厅 45, 电梯厅 20, 服务电梯厅 19, 全日餐 260, 宴会厅(150人) 350, 宴会前厅 110, 后厨 95, 母婴室, 消控室, 行李房, 中庭庭院.
+- 2F: 餐饮包厢区 + 走廊. 3F/4F: guest-room floors, ~71 m × 20 m slab, double-loaded corridor. 5F: west half public (茶吧/休闲/多功能), east half rooms.
+
+## 公区保洁 (as of 2026-11-27, 段总 in 总值班群)
+- 5 cleaners, 3 shifts: A4 07:00–15:30; C 13:00–21:30; K2 09:30–14:30 + 17:30–21:30 (split shift).
+- A4 + C: 1F 大堂, 旋转门, 宴会厅, 公共卫生间, whole exterior, 三号院, 3F 健身房 + public area, 5F public area, B1 办公区 public, staff locker rooms, B1 garage, 2 guest lifts, 1/3/5F lift halls + cars, 1 staff lift, 1/3/5/6F lift halls + cars, east/west stairs.
+- K2: 1F 膳 (restaurant), all 2F private rooms floors + WCs, public WCs, corridor, 2F staff/guest lift halls, B区/C区 floors + public WCs.
+- Checks: 领班 daily, 主管 spot checks; per-shift daily workflow sheets exist.
+- Gaps (after 张晶晶 11-27): owner of 5F/6F guest corridors + workrooms still unconfirmed; no coverage 21:30–07:00; exact 6F odour spot unknown.
+- **Floors: 书院 has no 4F — floors are B1, 1, 2, 3, 5, 6** (张晶晶 11-27). Plan sheet 「四层」 = actual 5F (guest rooms), 「五层」 = actual 6F (west half public 茶吧/休闲, east half rooms). Earlier "at least 6 floors" note = 5 above-ground floors.
+- 公区 headcount: K2 1, A4 2, C 2; one C person rests 2 days/week, others 1 → ~4 on duty/day. A4/C rotate every half month; when K2 rests, A4/C lend one.
+- 客房: A4 + C shifts, 4 people, each 2 days off/week (~2.9 on duty/day). 3F workroom is 客房's; no odour on 3F (per 张晶晶).
+- 5F has no workroom; 5F (and guest) corridors are 客房's. 6F odour hotspots (张晶晶 11-27): 6F 库房/洗衣房, 6F public WC, restaurant sink (餐厅水池).

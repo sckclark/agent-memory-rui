@@ -55,3 +55,31 @@ metadata:
   - 奖励政策落地（郑董 11-26 要求，书院群）：核算表 ~/work/ruiyuan/reward/make.py、四张登记表 forms.py；5 项口径待段总+陈总确认（会员卡核销vs充值、杯卖葡萄酒、服务奖是否需登记、宴会封顶与分期、水吧多人当班），12-05 前；要 11 月西软账单明细试算；赵欣问西软接口/定时导出；12-15 起每日核算。
   - 11-24 周会待办跟踪表 v2（~/work/ruiyuan/meeting/，含西软餐饮系统整改 14 项）；等段总定西软整改负责人。
   - 刘丽杰：仪表管理制度审核意见+修订稿已交（~/deliverables/刘丽杰/）。LESSON：不要把一个人的私聊内容（如盛腾会议用语）带到另一个人的对话里。
+
+## 2026-11-27 陈总: 倒班宿舍管理制度 review
+- 陈总 sent 倒班宿舍管理制度.docx (行政人事部, 2026-11-19), asked "有没有问题，合不合理". Saved at ~/inbox/陈玉/dorm/.
+- Sent review: 当天加班无法提前申请 → 值班经理临时批准; 两头班中午禁回宿舍矛盾; 第四条「同时满足」逻辑; 安保部 may not exist; add 访客/床品/收费/违规分级; numbering; 临时帮工≠正式员工.
+- Offered: revised version + 3 forms (申请表, 承诺书, 退宿交接单) + 电子台账. Waiting for answer.
+- Also sent 倒班宿舍管理规定通知.docx (same date); reviewed: same 2 conflicts (登记时段, 中午禁回 vs 两头班), align 适用对象 with 制度, add 访客. Offered to revise both.
+- Also sent 退宿交接单.docx; suggested: 床品交还, 打扫确认, 逾期天数, 赔偿方式(扣工资需同意), 台账已更新格, 强制退宿原因+部门签字. Offered to revise all 3 + make 申请表/承诺书.
+- Also sent 宿舍安全及文明居住承诺书.docx; suggested: 中午条款同步, 访客, 贵重物品自负, 联系电话+紧急联系人, 去重部门+行政经办签字. Still missing 住宿申请表. Offered unified revision of all 4.
+- 11-27 11:2x: owner posted 平面图 in 总值班群; I replied listing public areas, asked 谢工 for 6F plan + corridor/stair areas, 张晶晶 for cleaner count/shifts.
+- 11-27 陈总 sent 采购订单10月.xlsx (~/inbox/陈玉/purchase/; 1107 rows, 73,565.68 元, all from 果喆美鲜果店, 10/22–10/29 + one 10/1 order). Found unit-entry errors (乌江榨菜, 东古一品鲜…), price gaps (河蟹 65 vs 120, 虾仁 27 vs 120, 蒸鱼豉油 12 vs 40, 花椒 6 vs 40), 9 rows #N/A category.
+- Made blank quote sheet for the new supplier trialled today: ~/deliverables/陈玉/蕊元书院_食材询价单.xlsx (365 items, no prices; script ~/work/ruiyuan/purchase/quote_sheet.py, merges in quote_map.json). NEXT: when supplier's filled sheet comes back, compare item by item vs October prices (normalize units first), savings by category.
+- 11-27 split quote sheet into 2 (蔬果干调 278 / 肉类海鲜 87; frozen meat+seafood moved to meat sheet, asked 陈总 to confirm).
+- 11-27 赵欣 (书院群): 西软 reply — API needs stated purpose; email reports in development; 定时保存报表 exists but not opened, needs 西软 remote config. I recommended 定时保存; gave purpose text; listed 4 reports (账单明细 w/ 点单人, 菜品销售明细, 营业日报, 会员卡明细), Excel daily to fixed folder; target by 12-10, fallback manual export by 前台. Asked for one-day sample to check fields.
+- 11-27 段总 (1:1): 西软 客房板块 only 工程报修 in use; asked for 需求工作单 to 集团信息部. Sent docx RY-IT-20261127-01 with 5 needs (权限 5 模块, 岗位权限表, 2 trainings, 试运行 2 周, 对接人), suggested dates 12-01 受理 / 12-05 权限 / 12-12 培训 / 12-15–28 试运行 / 12-31 验收. Related: 西软整改 tracker (段总 to name lead).
+- 11-27 14:12 段总 sent back final PDF (WPS, edited: 客房经理（段总代）; problem 3 drops 公寓清洁/工程维保) and said 帮我记录 → saved as ~/deliverables/段立军/蕊元书院_西软客房模块需求工作单_20261127_定稿.pdf. Track: 信息部 受理 by 12-01, 权限 12-05, 培训 12-12, 试运行 12-15–28, 验收 12-31.
+- 11-27 14:15 段总 posted 公区保洁 staffing in 总值班群; I analysed (in group, neutral tone) and asked: headcount per shift + days off, owner of 3–6F corridors/布草间 & 4F lift hall, night coverage. Still need 谢工 areas → staffing calc → 公区 SOP for 陈总 before 12-01 meeting.
+- 11-27 14:19 郑董 asked progress (voice); replied text+voice: plans in (missing 6F + corridor areas), 段总 staffing + 3 gaps, 闻味地图 not yet seen, SOP before Monday meeting.
+- 11-27 14:21 郑董: offered to chase people herself if they don't cooperate. Told her not needed yet; I can only see @-mentions from allowlisted (谢工/张晶晶 not on list) → 段总/陈总 forward. Promise: 11-28 morning (cron bc12b61a 09:43) report to 郑董 what's missing (6F plan, corridor areas, 闻味地图) and who owns it.
+- 11-27 14:23 郑董 wants 谢工(谢晓光)/张晶晶 to @小蕊 directly in 总值班群; told her they're not on allowlist; asked owner (send_to) to decide on adding them as user. Until then 陈总/段总 forward.
+- 11-27 14:31 赵欣 (1:1) sent the same 定稿 PDF of RY-IT-20261127-01 (identical). Asked if he's 信息部 对接人; suggested combining with 西软 定时报表 remote config; offered 岗位权限对照表 template.
+- 11-27 14:32 赵欣 asked: did I make the work order; cost (西软 non-resident); other issues together; verified? Answered honestly: yes drafted from 段总's report+screenshot; cost not considered (suggest remote first, check maintenance scope, merge with 报表导出/餐饮整改 remote sessions); other issues → offer to merge into one 西软总需求清单 with 11-24 餐饮整改 plan (~/work/ruiyuan/meeting/add_xr.py); not verified (module licences, dates). Waiting his answer.
+- 11-27 14:32 owner: 谢工+张晶晶 added to allowlist → told 郑董. Owner asks: may 曹智杰 talk to 小蕊 directly (AI principle: leadership use)? Asked 郑董; relay her answer to owner.
+- 11-27 14:35 张晶晶 (now allowlisted) answered headcounts; no 4F. Replied: floor mapping, ~4 PA/day, asked owner of 5F/6F corridors+workrooms and exact 6F odour location/time. 谢工 only needs corridor/stair areas now.
+- 11-27 14:35 赵欣: IT doesn't own business requirements; won't dispatch on this sheet; 'let's study first'. Proposed: 客房部 (段总) owns 业务需求 & signs; 信息部 = tech/contract/licence/cost/西软; 陈总 for 餐饮. Steps: IT asks 西软 (licences, maintenance scope, onsite fees) → 段总 fills 岗位功能需求表 (I draft template) → phase (交班, 清扫排班/工作量, 查房 first) → 20-min 3-way review → revised work order. Hold original. Waiting 赵欣 OK. Keep his view private unless he says tell 段总.
+- 11-27 14:40 赵欣: no phased steps; asked whether open+train is enough without 客房/餐饮 workflow confirmation. Answered: yes, but 客房部 must give (1) name/role/function list, (2) base data (清洁工作量 points per room type, 周期卫生 items+cycle, 物耗 standard per room, 查房 items; else 西软 defaults). Offered to amend work order section 四.
+- 11-27 14:41 张晶晶: 6F odour at 库房/洗衣房, public WC, 餐厅水池. Replied with checks (washer drain hose sealing, floor-drain water seal, toilet base, exhaust, sink 存水弯/grease); today: fill drains + re-smell after 30 min; 11-28: 谢工 工程 check, post cause/fix/date per point.
+- 11-27 14:47 郑董 approved 曹智杰 using 小蕊 (客户资料管理, 跟进提醒, 说辞). Relayed to owner; asked owner to add + whether to limit storing client names/phones; his data → people/曹智杰.md PRIVATE.
+- 郑董 repeated: once 曹智杰 is added, proactively contact him (send_to OK per 郑董's request) — build 客户跟进表, reminders, coach 客户对接.

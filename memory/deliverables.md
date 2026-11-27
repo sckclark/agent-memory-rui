@@ -32,3 +32,5 @@ Deliverables live in `~/deliverables/蕊元书院_营销评估/`, and sources in
 - 11-26 西软菜谱整理 v5 → 陈总（~/deliverables/陈玉/；脚本 ~/work/ruiyuan/menu/）
 - 11-27 公共区域异味排查与卫生管理建议 PDF → 郑董 + 总值班群（~/deliverables/郑宗梅/ 与 ~/deliverables/蕊元书院_营销评估/；源 ~/work/ruiyuan/pa.tpl.html）
 - 11-27 12-05 宴会筹备倒排清单 v1（xlsx+PDF）→ 陈总（~/deliverables/陈玉/；源 ~/work/ruiyuan/banquet/make.py）
+- 2026-11-27 陈玉: supplier quote sheets from Oct POs, split by supplier: 蕊元书院_询价单_蔬果干调.xlsx (278) + 蕊元书院_询价单_肉类海鲜.xlsx (87, incl. frozen meat/seafood) in ~/deliverables/陈玉/; merged v1 in 旧版/. Script ~/work/ruiyuan/purchase/quote_sheet.py, item map quote_map.json
+- 2026-11-27 段立军: 蕊元书院_西软客房模块需求工作单_20261127.docx (~/deliverables/段立军/), work order to 盛腾集团信息部 for 西软 客房 permissions + training + rollout; script ~/work/ruiyuan/it/xr_room_ticket.py; 定稿 PDF (段总 edits) _定稿.pdf
