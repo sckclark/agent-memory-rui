@@ -51,3 +51,4 @@ metadata:
 - 公区 headcount: K2 1, A4 2, C 2; one C person rests 2 days/week, others 1 → ~4 on duty/day. A4/C rotate every half month; when K2 rests, A4/C lend one.
 - 客房: A4 + C shifts, 4 people, each 2 days off/week (~2.9 on duty/day). 3F workroom is 客房's; no odour on 3F (per 张晶晶).
 - 5F has no workroom; 5F (and guest) corridors are 客房's. 6F odour hotspots (张晶晶 11-27): 6F 库房/洗衣房, 6F public WC, restaurant sink (餐厅水池).
+- 税务：蕊元书院是**增值税一般纳税人**（赵欣 2026-11-27）。采购比价时专用发票的进项税可抵扣（一般 13%），要算进实际成本。

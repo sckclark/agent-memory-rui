@@ -19,7 +19,7 @@ metadata:
 - Revised incentive policy draft / 《员工激励方案建议》.
 - 润蕾 consignment terms or layout sketch.
 - 马老师 winter-camp / course draft.
-- AV tender spec (audio + LED).
+- AV tender spec (audio + LED). 11-27: audio handled via 赵欣 (波嘉 JBL recommended; stand sketch sent).
 
 **Promised follow-ups**
 - When the English name is decided, tell 赵欣 (1:1) for domain/备案 work. See people/赵欣.md.

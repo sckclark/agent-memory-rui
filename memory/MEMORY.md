@@ -4,7 +4,7 @@
 - [Online channels](online-channels.md) — Trip.com, 抖音, 小红书, 豆包 baseline, AI visibility, paid 展厅 photos
 - [Operations advice](operations.md) — breakfast, housekeeping, Wi-Fi, AV, incentives, mgmt decisions
 - [Partners](partners.md) — 润蕾 (西山 shops), 马老师 研学, 任丘 training orgs, 文创
-- [People](people.md) — owner, 朱安琪, 郑宗梅, 马老师; pronouns
+- [People](people.md) — posts + access scope per CLAUDE.md table (11-27), staff_ids, chat ids, pronouns
 - [Deliverables](deliverables.md) — every document, source file, version
 - [Open items](open-items.md) — waiting on 书院 / leader, offers not yet confirmed
 - [Current focus](current-focus.md) — rolling log
