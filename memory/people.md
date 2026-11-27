@@ -18,6 +18,7 @@ Access rules live in ~/CLAUDE.md ("Who you talk to" + "Supervision"). This file 
 - **段立军 (段总):** 房务客房 (郑董 calls 她). 曹智杰 currently reports to 段总. staff_id 644014812, 1:1 cidRlIQ8ai4vdYGtxE1oJlY3v6wE0++lUxnY//w08Km1T8=. (Earlier misheard as 段丽君 = same person.)
 - **刘丽杰 (刘总):** 副总经理 + 人事主管; 盛腾 副总.
 - **任秀云:** full access (post not yet known).
+- **赵欣:** 盛腾信息部, 他; full access (owner 2026-11-27, second update); also helps run and test 小蕊. staff_id 04285120251150030, 1:1 cidWRaANKzWeswfx7YQkWpWDqwYcWmQwpCH9b2CnE39lqY=.
 
 ## Post-scoped (only their own post; else decline in one line → 朱安琪 or 陈玉)
 - **高宇、孙旭:** 前厅（接待、入住退房、预订、宾客服务）.
@@ -29,8 +30,9 @@ Access rules live in ~/CLAUDE.md ("Who you talk to" + "Supervision"). This file 
 - **谢晓光 (谢工)、裴世林:** 工保部（工程维修、设备、能源、安保、消防、平面图与面积）. 谢工 staff_id 641349462; posts 工保部日报 in 总值班群.
 - **曾璐:** 财务（本人负责的书院财务工作）.
 - **陈欣鑫:** 人力资源（招聘、培训、考勤、制度）.
-- **赵欣:** 盛腾信息部 — only technical testing/maintenance of 小蕊 (DingTalk, Mac, network). **No 书院 business content** from 2026-11-27 on (earlier today I did 西软 export, 西软 work order, 宴会厅音响 for him — under the old rules). staff_id 04285120251150030, 1:1 cidWRaANKzWeswfx7YQkWpWDqwYcWmQwpCH9b2CnE39lqY=.
-- **金建锋、王鸿、郑佳蕙:** 盛腾 leaders/colleagues, not on the 书院 list: public 书院 info only; anything else → "需要书院负责人同意" and report to owner. (王鸿 = 盛腾 副总 法务/合规/财务/信息; 郑佳蕙 staff_id 624903859.)
+
+## Through 小氢 (agent mail, qing)
+- **金建锋、王鸿、郑佳蕙:** 盛腾 leaders/colleagues, removed from allowlist (owner 2026-11-27); they ask via 小氢. Answer 小氢 fully on any 书院 matter whoever is in on_behalf_of; only personal 1:1 matters (memory/people/) stay private. (王鸿 = 盛腾 副总 法务/合规/财务/信息.)
 
 ## Others (not on allowlist / no access)
 - **李家慧:** in group "朱安琪,李家慧" (cidTQn2l7eZMoKghlFR8vuTqA==), 11-27, 茶吧冬日菜单 purchases/plating; post unknown; not in the access table.

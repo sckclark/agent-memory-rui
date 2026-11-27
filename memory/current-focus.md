@@ -135,3 +135,13 @@ metadata:
 - 11-27 owner (terminal): CLAUDE.md updated — post-scoped access table + Supervision reporting; 8 staff added (高宇、孙旭、郑伯行、汪连印、赵子怡、裴世林、曾璐、陈欣鑫). people.md rewritten. Note: 赵欣 now technical-only (no 书院 business).
 - 11-27 20:47 cron odor-1127pm: today's items mostly in (6F spots identified, drains flushed→reduced, roof vent raised, restaurant trap). Missing: 谢工 corridor/stair areas. Posted short summary + 11-28 list in 总值班群 (客房 re-smell AM/PM + carpet/wall mould; 工程 washer drain + 公卫 floor drain cause/fix/date). 11-28 09:43 cron: report gaps to 郑董.
 - 11-27 20:47 朱安琪 (group w/ 李家慧): tableware (不锈钢甜品碟, cups) already on hand → removed from list. 青苹果浓缩汁 uses: 苹果糖美式 (20ml+60 water+15 焦糖 + espresso; hot/iced), 青苹果焦糖酱 (1:2, drizzle on 阿芙佳朵/布丁船/慕斯, fridge 3d), +100ml per 热红果饮 batch.
+- 11-27 20:48 朱安琪 told 李家慧 to @小蕊. Told group 李家慧 not on allowlist (owner adds); asked 朱安琪 for 家慧's post to relay request to owner. Waiting.
+- 11-27 20:49 朱安琪: 李家慧 stays off allowlist; 朱安琪 relays in group. Asked expected daily volume → Excel purchase sheet.
+- 11-27 20:53 朱安琪: volume weekday 2–4 sets/day, weekends/holidays/寒假 double. Sent ~/deliverables/朱安琪/蕊元书院_茶吧冬日菜单采购单_20261127.xlsx (48 items, 2-week basis 54 sets; script ~/work/ruiyuan/winter_menu/purchase.py). Asked 家慧: 咸法芝士酸乳 size (need ~1.9kg), check '如已有'. 
+- 11-27 20:53 郑董 posted a 钉盘 link in 总值班群 (can't open) → asked her (text+voice) to send the file directly.
+- 11-27 owner (terminal, 2nd update): 赵欣 full access; 金建锋/王鸿/郑佳蕙 removed, ask via 小氢 (answer fully on 书院 matters). people.md updated.
+- 11-27 20:56 Owner forwarded 郑董's 钉盘 file in 总值班群 = 平面图 PDF, identical (md5) to this morning's. Replied (text+voice): same file, in use; floor mapping; still need 谢工 corridor/stair areas.
+- 11-27 20:59 朱安琪: 咸法芝士酪乳 1L/盒 (2 on hand = 2L ≈ 2-week need) → no first purchase; open one at a time; top up 1 before first weekend. Purchase sheet updated + resent.
+- 11-27 21:14 郑伯行 (餐饮部, post-scoped) posted 餐饮部经营数据日报 11-27 in 总值班群: 11 桌/35 人, 3,955 元 (膳和 午2桌456 晚4桌857 套餐; 包厢 晚2桌 2,570 8人; 水吧 3 单 72 元 5人; 宴会 0). Complaint: 小雅 红烧多宝鱼太咸 → swapped 拍黄瓜+水饺. Replied: tell kitchen (汪师傅 taste/seasoning standard), add outcome line in report.
+- 11-27 21:34 高宇 (前厅, post-scoped) posted 前厅日报 11-27: 散客 3 间, 2,197.60 元 (~733/间), 可出租 26, 出租率写 9% (3/26=11.5% → asked to unify denominator), 停车 3, no issues. Suggested adding 平均房价 + 明日预抵 lines.
+- 11-27 22:43 朱安琪 corrected 甜甜圈拿铁: visual donut = dust cocoa/strawberry powder over foam + pour milk in centre to make the hole (not a hung donut). Sent SOP (thicker foam, pour 70–80%, dust full, centre pour 3–5cm, 彩针 on ring; choc/strawberry options). Purchase sheet: removed 迷你甜甜圈 + 榛果糖浆, added 可可粉, 冻干草莓粉, 撒粉罐x2 (49 items), resent.

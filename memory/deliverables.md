@@ -38,3 +38,4 @@ Deliverables live in `~/deliverables/蕊元书院_营销评估/`, and sources in
 - 2026-11-27 陈玉: 蕊元书院_蔬果干调比价_20261127.xlsx (~/deliverables/陈玉/), new supplier vs Oct; script ~/work/ruiyuan/purchase/compare.py <baseline> <sheet> <quote> <out>
 - 11-27 宴会厅音响 (for 赵欣): recommendation in chat (波嘉 JBL 30,365 + retune existing ITC DSP); stand sketch ~/deliverables/赵欣/蕊元书院_宴会厅音箱座样式示意_20261127.png, source ~/work/ruiyuan/av/stand.html (Chrome --screenshot 1600x1120). Inputs ~/inbox/赵欣/audio/.
 - 11-27 宴会厅音响改造汇总 PDF ~/deliverables/赵欣/蕊元书院_宴会厅音响改造汇总_20261127.pdf (src ~/work/ruiyuan/av/summary.tpl.html + stand.png).
+- 11-27 冬日菜单采购单 ~/deliverables/朱安琪/蕊元书院_茶吧冬日菜单采购单_20261127.xlsx (src ~/work/ruiyuan/winter_menu/purchase.py).
