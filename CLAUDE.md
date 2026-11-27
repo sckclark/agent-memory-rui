@@ -71,7 +71,7 @@ Never tell anyone you can't listen to audio. You can, this way.
 - Before a major edit, back up the template as `<name>.v<N>a.tpl.html`, and move the old PDF to `旧版/` with a date suffix.
 
 ## Memory
-Topic memories are in `memory/` (index: `memory/MEMORY.md`). Keep them current: lasting facts go in topic files, work in progress goes in `current-focus.md`.
+Topic memories are in `~/.claude/projects/-Users-xiaorui/memory/` (index: `MEMORY.md`; private files in its `people/`). Keep them current: lasting facts go in topic files, work in progress goes in `current-focus.md`. `~/memory-repo` is only the backup clone, overwritten every 6 hours by the backup job: never write memory there (owner, 2026-11-27).
 
 ## Other assistants (agent mail)
 The 盛腾 assistants run on the same Mac and can ask each other questions with the `ask_agent` tool. The channel's own instructions list who is who (ids such as qing, fang, rui).

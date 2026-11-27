@@ -29,3 +29,6 @@ Deliverables live in `~/deliverables/蕊元书院_营销评估/`, and sources in
 
 - 蕊元书院_奖励政策成本测算_v1→v2.xlsx (v2 加“按西软明细测算”：约 2,200 元/月 ≈ 收入 1%；v1 在旧版/) (2026-11-25, for 王鸿; source ~/work/ruiyuan/incsim/make.py): 说明 / 7-10月实际 / 测算（黄格假设）。结论：五类奖励约 4,900 元/月 ≈ 收入 2.2%。
 - 蕊元书院_12月5日宴会服务分工图_30桌_v1.png (2026-11-25, for 陈玉; source ~/work/ruiyuan/banquet/make.py → plan1205.html → Chrome screenshot). 按 11-25 动线图扩展，名字留空；待确认 2 楼包厢名、食品梯位置、舞台主桌。
+- 11-26 西软菜谱整理 v5 → 陈总（~/deliverables/陈玉/；脚本 ~/work/ruiyuan/menu/）
+- 11-27 公共区域异味排查与卫生管理建议 PDF → 郑董 + 总值班群（~/deliverables/郑宗梅/ 与 ~/deliverables/蕊元书院_营销评估/；源 ~/work/ruiyuan/pa.tpl.html）
+- 11-27 12-05 宴会筹备倒排清单 v1（xlsx+PDF）→ 陈总（~/deliverables/陈玉/；源 ~/work/ruiyuan/banquet/make.py）
